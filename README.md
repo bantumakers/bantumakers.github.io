@@ -23,7 +23,7 @@ Then build the web assets and preview the site:
 npm start
 ```
 
-This will spin up a server running at `localhost:8080`. The preview server uses `site.dev.json` for configuration.
+This will spin up a server running at `localhost:1337`. The preview server uses `site.dev.json` for configuration.
 
 ### Building for Deployment
 
