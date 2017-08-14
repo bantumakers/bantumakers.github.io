@@ -4,27 +4,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>http://www.conversasstartup.com/</loc>
-		<lastmod>2017-08-12</lastmod>
+		<lastmod>2017-08-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.0</priority>
 	</url>
 
 	<url>
-		<loc>http://www.conversasstartup.com/2017/08/novo-post/</loc>
-		<lastmod>2017-08-29</lastmod>
+		<loc>http://www.conversasstartup.com/2017/08/11-edi-o/</loc>
+		<lastmod>2017-08-04</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017/07/10-edi-o/</loc>
+		<lastmod>2017-07-07</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017-05-5/3-edi-o/</loc>
+		<lastmod>2017-05-01</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017/06/9-edi-o/</loc>
+		<lastmod>2017-06-23</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017/06/8-edi-o/</loc>
+		<lastmod>2017-06-16</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017/06/7-edi-o/</loc>
+		<lastmod>2017-06-09</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017/06/6-edi-o/</loc>
+		<lastmod>2017-06-02</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017/05/5-edi-o/</loc>
+		<lastmod>2017-05-19</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017/05/4-edi-o/</loc>
+		<lastmod>2017-05-12</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017/04/2-edi-o/</loc>
+		<lastmod>2017-04-28</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.conversasstartup.com/2017/04/1-edi-o/</loc>
+		<lastmod>2017-04-21</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.9</priority>
 	</url>
 
 	<url>
 		<loc>http://www.conversasstartup.com/about/</loc>
-		<lastmod>2017-08-12</lastmod>
+		<lastmod>2017-08-14</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>http://www.conversasstartup.com/resume/</loc>
-		<lastmod>2017-08-12</lastmod>
+		<lastmod>2017-08-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.7</priority>
 	</url>
