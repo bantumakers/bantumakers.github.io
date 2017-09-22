@@ -26,7 +26,7 @@ const Home = ({
 				<section className="intro" dangerouslySetInnerHTML={{ __html: intro }} />
 
 				<section className="post-list" itemScope={true} itemType="http://schema.org/Blog">
-					<h4>Eventos</h4>
+					<h4>Últimos Eventos</h4>
 					<Posts posts={posts} siteUrl={url} enableDisqus={!!disqus} />
 				</section>
 

@@ -48,7 +48,7 @@ const Post = ({
 						</section>
 					</footer>
 
-					{comments}
+					 {/* comments */} 
 				</article>
 			</main>
 		</div>
